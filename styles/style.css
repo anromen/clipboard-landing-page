@@ -35,7 +35,7 @@ h3 {
 }
 
 header {
-  background-image: url(assets/images/bg-header-mobile.png);
+  background-image: url(../assets/images/bg-header-mobile.png);
   background-size: fill;
   background-repeat: no-repeat;
 }
@@ -133,7 +133,7 @@ body {
 
 @media only screen and (min-width: 460px) {
   header {
-    background-image: url(assets/images/bg-header-desktop.png);
+    background-image: url(../assets/images/bg-header-desktop.png);
   }
 
   header,
